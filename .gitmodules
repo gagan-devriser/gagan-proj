@@ -1,0 +1,6 @@
+[submodule "gagan-library"]
+	path = gagan-library
+	url = https://github.com/gagan-devriser/gagan-library.git
+[submodule "src/gagan-library"]
+	path = src/gagan-library
+	url = https://github.com/gagan-devriser/gagan-library.git
